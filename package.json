@@ -1,13 +1,17 @@
 {
   "name": "express-response-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Peckage to extend express to respont structured json object",
   "main": "index.js",
   "scripts": {
     "test": "jest1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vodek2/express-response-config"
+  },
   "keywords": [
-    "express-response",
+    "express-response-config",
     "express",
     "response",
     "json-api",
