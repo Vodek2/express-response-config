@@ -1,13 +1,13 @@
-# Express Response
+# Express Response Config
 
-Express Response is a tiny module to allow to extend `express.response` object by adding user defined structure of response object.
+Express Response is a tiny, zero dependencies  module to allow to extend `express.response` object by adding user defined structure of response object.
 
 ## Usage example
 
 ### Install Express Response
 
 ```bash
-npm install express-response
+npm install express-response-config
 ```
 
 ### Define parameters object
