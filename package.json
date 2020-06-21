@@ -4,7 +4,7 @@
   "description": "Peckage to extend express to respont structured json object",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest1"
   },
   "keywords": [
     "express-response",
@@ -14,5 +14,9 @@
     "api"
   ],
   "author": "Vodek Kwasniak",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "lodash": "^4.17.15"
+  }
 }
