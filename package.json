@@ -1,6 +1,6 @@
 {
   "name": "express-response-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Peckage to extend express to respont structured json object",
   "main": "index.js",
   "scripts": {

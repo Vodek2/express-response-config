@@ -22,7 +22,7 @@ const parameters = {
 
 ```js
 const express = require('express')
-require('express-response')({
+require('express-response-config')({
     express,
     ...parameters
 
