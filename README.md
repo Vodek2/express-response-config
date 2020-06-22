@@ -32,7 +32,7 @@ const app = express()
 
 ### Call your custom response in your handler
 
-Now handler takes to parameters:
+Now handler takes two parameters:
 
 * status code: integer
 * object with keys defined in bootstrap file
@@ -48,6 +48,11 @@ Now handler takes to parameters:
  }
 
 ```
+
+Please note:
+
+* Not all parameters defined in `responseObKeys` have to be use as response object keys
+* Any key used in response object, which has not been defined in `responseObKeys` will be ignored
 
 Api will respond with:
 
