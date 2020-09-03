@@ -4,7 +4,7 @@
   "description": "Peckage to extend express to respont structured json object",
   "main": "index.js",
   "scripts": {
-    "test": "jest1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "author": "Vodek Kwasniak",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.0.1",
-    "lodash": "^4.17.15"
+    "jest": "^26.4.2",
+    "lodash": "^4.17.20"
   }
 }
