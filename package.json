@@ -1,7 +1,7 @@
 {
   "name": "express-response-config",
-  "version": "0.0.4",
-  "description": "Peckage to extend express to respont structured json object",
+  "version": "0.0.5",
+  "description": "Package to extend express to respond structured json object",
   "main": "index.js",
   "scripts": {
     "test": "jest"
