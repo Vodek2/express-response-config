@@ -20,7 +20,7 @@
   "author": "Vodek Kwasniak",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.4.2",
+    "jest": "^30.3.0",
     "lodash": "^4.17.20"
   }
 }
